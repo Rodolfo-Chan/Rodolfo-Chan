@@ -6,7 +6,7 @@
 <br>
 
 <p align="left"> 
-<img src="" />
+
  </p>
  <p align="center">
 
