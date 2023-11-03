@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rodolfo </h1>
+<h1 align="center">Hi 👋 <img src="">, I am Rodolfo </h1>
 <h3 align="center">Student and programmer </h3>
 <p align="center">
   <img src="" height="200"/>
@@ -9,7 +9,7 @@
 <img src="" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
