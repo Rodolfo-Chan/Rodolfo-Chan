@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/ZXTTxrc/gallery.png" alt="gallery" border="2" height="250"></a>
+<img src="https://i.ibb.co/ZXTTxrc/gallery.png" alt="gallery" border="2" height="350"></a>
 </p>
 <h1 align="center">Hi 👋 , I am Rodolfo </h1>
 <h3 align="center">Student and programmer </h3>
