@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 <img src="">, I am Rodolfo </h1>
+<h1 align="center">Hi 👋 , I am Rodolfo </h1>
 <h3 align="center">Student and programmer </h3>
 <p align="center">
-  <img src="" height="200"/>
+
 </p>
 <br>
 
@@ -9,7 +9,7 @@
 <img src="" />
  </p>
  <p align="center">
-<img src="" />
+
   
 </p>
 <hr>
