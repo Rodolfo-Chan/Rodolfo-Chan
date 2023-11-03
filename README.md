@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rodolfo </h1>
 <h3 align="center">Student and programmer </h3>
 <p align="center">
-  <img src="https://www.canva.com/design/DAFzFManzlE/xmS2nt09-7NSJ12tnOGU3g/view?utm_content=DAFzFManzlE&utm_campaign=designshare&utm_medium=link&utm_source=editor" height="200"/>
+  <img src="" height="200"/>
 </p>
 <br>
 
