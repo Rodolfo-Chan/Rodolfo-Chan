@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" height="200"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/000/686/680/original/modern-colorful-wave-banner-template-background-vector.jpg" height="200"/>
 </p>
 <br>
 
