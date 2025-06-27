@@ -48,12 +48,6 @@
 ---
 <!--Profile Count Badge-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rodolfo-Chan&theme=transparent&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
-
-
-
 
 
 
