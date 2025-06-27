@@ -1,33 +1,26 @@
-<p align="center">
-<img src="https://i.ibb.co/QJG2TbJ/gallery-1.png" alt="gallery-1" border="0"></a>
-</p>
-<h1 align="center">Hi 👋 , I am Rodolfo </h1>
-<h3 align="center">Student and programmer </h3>
-<p align="center">
+# 👋 ¡Hola! Soy Rodolfo Chan
 
-</p>
-<br>
+💼 QA Engineer | Desarrollador Fullstack  
+🚀 Apasionado por el desarrollo web, APIs y pruebas automatizadas
 
-<p align="left"> 
+---
 
- </p>
- <p align="center">
+## 🧠 Tecnologías que manejo
 
-  
-</p>
-<hr>
+- ⚛️ React.js / Vite
+- 🐍 Python / Django / FastAPI
+- 💻 TypeScript / JavaScript
+- 🛠 HTML5 / CSS3 / Tailwind CSS
+- 🐘 PostgreSQL / MySQL
+- 🧪 JMeter / Postman / Selenium
+- ☁️ Git / GitHub / GitHub Actions
 
-<!--
-**Rodolfo-Chan/Rodolfo-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 ¿Cómo contactarme?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **Email:** rodolfochan2910@gmail.com  
+- 🌐 **Portafolio:** [flowerstay.netlify.app](https://cute-smakager-21d4a8.netlify.app/)  
+- 💼 **LinkedIn:** [linkedin.com/in/rodolfo-chan](https://www.linkedin.com/in/rodolfo-chan-ay-986503291/)
+
+---
