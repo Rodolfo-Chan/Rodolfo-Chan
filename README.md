@@ -39,9 +39,9 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flowerstay.netlify.app)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cute-smakager-21d4a8.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-chan-ay-986503291/)
-[![Email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](rodolfochan.dev@gmail.com  )
+[![Email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](rodolfochan2910@gmail.com)
 
 
 ---
