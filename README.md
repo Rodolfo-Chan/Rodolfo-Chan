@@ -48,7 +48,7 @@
 ---
 <!--Profile Count Badge-->
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rodolfo-Chan/Rodolfo-Chan/blob/main/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rodolfo-Chan/Rodolfo-Chan/blob/main/Skills_Animation_White.gif">
