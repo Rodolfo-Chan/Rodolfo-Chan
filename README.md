@@ -1,20 +1,21 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/Rodolfo-Chan/Rodolfo-Chan/blob/main/0.png)
 
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Soy Rodolfo Chan
 *QA Engineer | Web developer*
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+
 <!--Start Intro-->               
-<p align="left">🚀 Apasionado por el desarrollo web, APIs y pruebas automatizadas
- </p>
+<p align="left">🚀 Apasionado por el desarrollo web, APIs y pruebas automatizadas</p>
 <br /> 
 
 ---
+
 <h2 align="center">📌 Skills</h2> 
 
 ### Frontend
@@ -39,6 +40,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cute-smakager-21d4a8.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-chan-ay-986503291/)
@@ -46,7 +48,7 @@
 📧 **Email:** rodolfochan.dev@gmail.com 
 
 ---
-<!--Profile Count Badge-->
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
 <picture>
@@ -54,7 +56,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rodolfo-Chan/Rodolfo-Chan/blob/main/Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="https://github.com/Rodolfo-Chan/Rodolfo-Chan/blob/main/Skills_Animation_White.gif">
 </picture>
-<br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
@@ -62,22 +63,18 @@
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
+<br />
+<br />
 
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rodolfo-Chan&theme=prussian" alt="GitHub Streak Stats" />
+  </a>
+</p>
+<br />
 
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="clear: both;"></div>
 
 
 
